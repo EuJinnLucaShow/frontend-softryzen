@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.f855e6bc.css",
-    "main.js": "/frontend-softryzen/static/js/main.60c5e5f7.js",
+    "main.css": "/frontend-softryzen/static/css/main.0e828894.css",
+    "main.js": "/frontend-softryzen/static/js/main.fcf2026b.js",
     "static/media/logo.svg": "/frontend-softryzen/static/media/logo.ff3f0399b16434329da8fbccf3e68921.svg",
     "index.html": "/frontend-softryzen/index.html",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "static/media/ellipse-1.svg": "/frontend-softryzen/static/media/ellipse-1.8b08bb34fd3d9f24701457286c1bc852.svg",
-    "main.f855e6bc.css.map": "/frontend-softryzen/static/css/main.f855e6bc.css.map",
-    "main.60c5e5f7.js.map": "/frontend-softryzen/static/js/main.60c5e5f7.js.map"
+    "main.0e828894.css.map": "/frontend-softryzen/static/css/main.0e828894.css.map",
+    "main.fcf2026b.js.map": "/frontend-softryzen/static/js/main.fcf2026b.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.60c5e5f7.js"
+    "static/css/main.0e828894.css",
+    "static/js/main.fcf2026b.js"
   ]
 }
