@@ -1,15 +1,29 @@
 import React from 'react';
-import logo from '../../image/logo.svg'
-import menu from '../../image/menu.svg'
-import ellipse from '../../image/ellipse-1.svg'
-import { GetTouch, GetTouchText, Menu, HeaderWrrap } from './Header.styled';
+import logo from '../../image/logo.svg';
+import menu from '../../image/menu.svg';
+// import ellipse from '../../image/ellipse-1.svg';
+import css from './Header.module.css';
 
 export default function Header() {
   return (
-    <HeaderWrrap>
-        <div><img src={ logo } alt="logo ecosolution"/><span>ecosolution</span><article>GREENERGY FOR LIFE</article></div>
-        <div><Menu><img src={ menu } alt="menu"/></Menu><GetTouch><GetTouchText>Get in touch</GetTouchText><img src={ ellipse } alt="ellipse"/></GetTouch></div>
-    </HeaderWrrap>
+    <header className={css.header}>
+      <div className={css.box}>
+        <div className={css.group}>
+          <p className={css.greenergyforlife}>
+            <span className={css.textWrapper}>GREEN</span>
+            <span className={css.span}>
+              ERGY
+              <br />
+              FOR LIFE
+            </span>
+          </p>
+          <div className={css.div}>ecosolution</div>
+          <img className={css.bgasset} alt="Bgasset" src={logo} />
+        </div>
+      </div>
+      <div className={css.frame}>
+        <img alt="menu" src={menu} />
+      </div>
+    </header>
   );
 }
-

@@ -1,0 +1,70 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 36px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.box {
+  height: 40px;
+  position: relative;
+  width: 269px;
+}
+
+.box .group {
+  height: 40px;
+  width: 273px;
+}
+
+.box .greenergyforlife {
+  color: transparent;
+  font-family: 'CA Saygon Text-Regular', Helvetica;
+  font-size: 10px;
+  font-weight: 400;
+  left: 189px;
+  letter-spacing: -0.4px;
+  line-height: 9px;
+  position: absolute;
+  top: 15px;
+}
+
+.box .textWrapper {
+  color: #97d28b;
+}
+
+.box .span {
+  color: #173d33;
+}
+
+.box .div {
+  color: #173d33;
+  font-family: 'FONTSPRING DEMO - All Round Gothic Thick-Regular', Helvetica;
+  font-size: 33px;
+  font-weight: 400;
+  left: 35px;
+  letter-spacing: -1.32px;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.box .bgasset {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 31px;
+}
+
+.frame {
+  align-items: center;
+  background-color: #dcefd8;
+  border-radius: 500px;
+  display: inline-flex;
+  gap: 12px;
+  height: 39px;
+  justify-content: center;
+  padding: 0 12px;
+  position: relative;
+}
