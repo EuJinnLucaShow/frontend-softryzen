@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.0e828894.css",
-    "main.js": "/frontend-softryzen/static/js/main.fcf2026b.js",
+    "main.css": "/frontend-softryzen/static/css/main.b4a2fb31.css",
+    "main.js": "/frontend-softryzen/static/js/main.9dfe299f.js",
+    "static/media/wind-turbine-clean-energy.png": "/frontend-softryzen/static/media/wind-turbine-clean-energy.c208aebc5301954b08e4.png",
     "static/media/logo.svg": "/frontend-softryzen/static/media/logo.ff3f0399b16434329da8fbccf3e68921.svg",
     "index.html": "/frontend-softryzen/index.html",
+    "static/media/arrow-right.svg": "/frontend-softryzen/static/media/arrow-right.0499e83c1960c6937387b46dc894f69c.svg",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "main.0e828894.css.map": "/frontend-softryzen/static/css/main.0e828894.css.map",
-    "main.fcf2026b.js.map": "/frontend-softryzen/static/js/main.fcf2026b.js.map"
+    "main.b4a2fb31.css.map": "/frontend-softryzen/static/css/main.b4a2fb31.css.map",
+    "main.9dfe299f.js.map": "/frontend-softryzen/static/js/main.9dfe299f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e828894.css",
-    "static/js/main.fcf2026b.js"
+    "static/css/main.b4a2fb31.css",
+    "static/js/main.9dfe299f.js"
   ]
 }
