@@ -1,0 +1,129 @@
+.wrapper {
+  margin-top: 145px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.label {
+  width: 320px;
+}
+
+.label .renewableenergyfor {
+  color: #173d33;
+  font-family: 'Oswald-Regular', Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 36px;
+  width: 320px;
+}
+
+.text {
+  width: 320px;
+  margin-top: 24px;
+}
+
+.text .textWrapper {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  text-align: justify;
+  width: 320px;
+}
+
+.btn {
+  align-items: center;
+  border: 1px solid;
+  border-color: #97d28b;
+  border-radius: 500px;
+  display: inline-flex;
+  gap: 12px;
+  height: 39px;
+  justify-content: center;
+  padding: 4px 4px 4px 16px;
+  position: relative;
+  margin-top: 24px;
+}
+
+.btn .btnText {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: 18px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.vuesaxArrow {
+  align-items: center;
+  background-color: #97d28b;
+  border-radius: 100px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  padding: 8px;
+  position: relative;
+}
+
+.box {
+  height: 1px;
+  width: 320px;
+  margin-top: 24px;
+}
+
+.box .rectangle {
+  background-color: #97d28b;
+  height: 1px;
+  width: 320px;
+}
+
+.adress {
+  width: 289px;
+  margin-top: 24px;
+}
+
+.adress .adressText {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.mail {
+  width: 163px;
+  margin-top: 8px;
+}
+
+.mail .mailText {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+
+  letter-spacing: -0.64px;
+  line-height: normal;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.imageWrapp {
+  height: 316px;
+  width: 320px;
+  margin-top: 36px;
+}
+
+.imageWrapp .image {
+  height: 200px;
+  object-fit: cover;
+  width: 319px;
+}
