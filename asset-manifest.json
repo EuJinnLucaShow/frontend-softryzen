@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.b4a2fb31.css",
-    "main.js": "/frontend-softryzen/static/js/main.9dfe299f.js",
+    "main.css": "/frontend-softryzen/static/css/main.0032cf47.css",
+    "main.js": "/frontend-softryzen/static/js/main.14ff11f9.js",
+    "static/media/andrii-duda.png": "/frontend-softryzen/static/media/andrii-duda.6e405adf9c7e0cb233f7.png",
+    "static/media/yurii-turchenko.png": "/frontend-softryzen/static/media/yurii-turchenko.0b1c75673cf1f53b221e.png",
+    "static/media/victor-dunaev.png": "/frontend-softryzen/static/media/victor-dunaev.c65072d8793fc37e1c2f.png",
     "static/media/wind-turbine-clean-energy.png": "/frontend-softryzen/static/media/wind-turbine-clean-energy.c208aebc5301954b08e4.png",
+    "static/media/vitalii-shevchenko.png": "/frontend-softryzen/static/media/vitalii-shevchenko.1a8298d294aab5f3fc69.png",
     "static/media/logo.svg": "/frontend-softryzen/static/media/logo.ff3f0399b16434329da8fbccf3e68921.svg",
     "index.html": "/frontend-softryzen/index.html",
     "static/media/arrow-right.svg": "/frontend-softryzen/static/media/arrow-right.0499e83c1960c6937387b46dc894f69c.svg",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "main.b4a2fb31.css.map": "/frontend-softryzen/static/css/main.b4a2fb31.css.map",
-    "main.9dfe299f.js.map": "/frontend-softryzen/static/js/main.9dfe299f.js.map"
+    "main.0032cf47.css.map": "/frontend-softryzen/static/css/main.0032cf47.css.map",
+    "main.14ff11f9.js.map": "/frontend-softryzen/static/js/main.14ff11f9.js.map"
   },
   "entrypoints": [
-    "static/css/main.b4a2fb31.css",
-    "static/js/main.9dfe299f.js"
+    "static/css/main.0032cf47.css",
+    "static/js/main.14ff11f9.js"
   ]
 }
