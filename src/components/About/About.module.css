@@ -1,0 +1,95 @@
+.titleWrapp {
+  width: 320px;
+}
+
+.title {
+  color: #173d33;
+  font-family: 'Oswald-Regular', Helvetica;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 100% */
+  text-transform: uppercase;
+}
+
+.textWrapp {
+  width: 319px;
+  margin-top: 24px;
+}
+
+.textWrapp .text {
+  color: transparent;
+  font-family: 'Fira Sans-Medium', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  text-align: justify;
+  width: 319px;
+}
+
+.textWrapp .spanWrapp {
+  color: #97d28b;
+  font-weight: 500;
+}
+
+.textWrapp .span {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+}
+
+.frame {
+  align-items: flex-start;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 24px 24px;
+  position: relative;
+  width: 320px;
+  margin-top: 36px;
+}
+
+.frame .group {
+  height: 219px;
+  position: relative;
+  width: 149px;
+}
+
+.frame .maskGroup {
+  height: 168px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 148px;
+}
+
+.frame .textWrapper {
+  color: #173d33;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.72px;
+  line-height: normal;
+  position: absolute;
+  top: 176px;
+}
+
+.frame .div {
+  color: #828382;
+  font-family: 'Fira Sans-Regular', Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: -0.64px;
+  line-height: normal;
+  position: absolute;
+  top: 200px;
+  white-space: nowrap;
+}
+
+.frame .group2 {
+  height: 219px;
+  margin-right: -4px;
+  position: relative;
+  width: 149px;
+}
