@@ -28,12 +28,12 @@ export default function Values() {
             <p className={css.div}>
               to the world, people, new ideas and projects
             </p>
-            <img src={openness} alt="" />
+            <img className={css.icons} src={openness} alt="" />
           </div>
         </div>
         <div className={css.overlapWrapper}>
           <div className={css.overlapGroup}>
-            <img src={responsibility} alt="" />
+            <img className={css.icons} src={responsibility} alt="" />
             <div className={css.rectangle} />
             <div className={css.textWrapper}>RESPONSIBILITY</div>
             <p className={css.div}>
@@ -44,7 +44,7 @@ export default function Values() {
         </div>
         <div className={css.group}>
           <div className={css.overlapGroup}>
-            <img src={innovation} alt="" />
+            <img className={css.icons} src={innovation} alt="" />
             <div className={css.rectangle} />
             <div className={css.textWrapper}>INNOVATION</div>
             <p className={css.div}>
@@ -54,7 +54,7 @@ export default function Values() {
         </div>
         <div className={css.overlapWrapper}>
           <div className={css.overlapGroup}>
-            <img src={quality} alt="" />
+            <img className={css.icons} src={quality} alt="" />
             <div className={css.rectangle} />
             <div className={css.textWrapper}>QUALITY</div>
             <p className={css.div}>

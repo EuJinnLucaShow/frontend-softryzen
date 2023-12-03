@@ -1,6 +1,14 @@
 .headers {
+  position: sticky;
+  left: 0;
+  top: 0;
   display: flex;
   justify-content: space-between;
+  background-color: #f8faff;
+  padding-top: 36px;
+  height: 112px;
+  min-width: 320px;
+  z-index: 2;
 }
 
 .box {

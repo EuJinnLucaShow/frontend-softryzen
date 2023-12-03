@@ -1,9 +1,9 @@
 import React from 'react';
-import css from './Hero.module.css';
+import css from './Main.module.css';
 import arrowRight from '../../image/arrow-right.svg';
 import WindTurbine from '../../image/wind-turbine-clean-energy.png';
 
-export default function Hero() {
+export default function Main() {
   return (
     <div className={css.wrapper}>
       <div className={css.label}>

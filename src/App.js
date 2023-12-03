@@ -1,14 +1,13 @@
 import Header from 'components/Header/Header';
-import './App.css';
-import Hero from 'components/Hero/Hero';
+import Main from 'components/Main/Main';
 import About from 'components/About/About';
 import Values from 'components/Values/Values';
 
 function App() {
   return (
-    <div className="App-wrapper">
+    <div>
       <Header />
-      <Hero />
+      <Main />
       <About />
       <Values />
     </div>

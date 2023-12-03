@@ -4,7 +4,7 @@
 
 .title {
   color: #173d33;
-  font-family: 'Oswald-Regular', Helvetica;
+  font-family: 'Oswald';
   font-size: 28px;
   font-style: normal;
   font-weight: 400;
@@ -19,7 +19,7 @@
 
 .textWrapp .text {
   color: transparent;
-  font-family: 'Fira Sans-Medium', Helvetica;
+  font-family: 'Fira Sans-Medium';
   font-size: 16px;
   font-weight: 400;
   letter-spacing: -0.64px;
@@ -35,7 +35,7 @@
 
 .textWrapp .span {
   color: #173d33;
-  font-family: 'Fira Sans-Regular', Helvetica;
+  font-family: 'Fira Sans-Regular';
 }
 
 .frame {
@@ -64,7 +64,7 @@
 
 .frame .textWrapper {
   color: #173d33;
-  font-family: 'Fira Sans-Regular', Helvetica;
+  font-family: 'Fira Sans-Regular';
   font-size: 18px;
   font-weight: 400;
   left: 0;
@@ -76,7 +76,7 @@
 
 .frame .div {
   color: #828382;
-  font-family: 'Fira Sans-Regular', Helvetica;
+  font-family: 'Fira Sans-Regular';
   font-size: 16px;
   font-weight: 400;
   left: 0;
