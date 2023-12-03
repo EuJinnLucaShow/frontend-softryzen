@@ -1,7 +1,10 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.1c19b883.css",
-    "main.js": "/frontend-softryzen/static/js/main.d68c274a.js",
+    "main.css": "/frontend-softryzen/static/css/main.d927e34f.css",
+    "main.js": "/frontend-softryzen/static/js/main.28045b0f.js",
+    "static/media/FiraSans-Medium.ttf": "/frontend-softryzen/static/media/FiraSans-Medium.d11d9e14e00fc1a96751.ttf",
+    "static/media/FiraSans-Regular.ttf": "/frontend-softryzen/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
+    "static/media/Oswald-VariableFont_wght.ttf": "/frontend-softryzen/static/media/Oswald-VariableFont_wght.7cecd0da606d25b0905d.ttf",
     "static/media/andrii-duda.png": "/frontend-softryzen/static/media/andrii-duda.6e405adf9c7e0cb233f7.png",
     "static/media/yurii-turchenko.png": "/frontend-softryzen/static/media/yurii-turchenko.0b1c75673cf1f53b221e.png",
     "static/media/victor-dunaev.png": "/frontend-softryzen/static/media/victor-dunaev.c65072d8793fc37e1c2f.png",
@@ -15,11 +18,11 @@
     "index.html": "/frontend-softryzen/index.html",
     "static/media/arrow-right.svg": "/frontend-softryzen/static/media/arrow-right.0499e83c1960c6937387b46dc894f69c.svg",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "main.1c19b883.css.map": "/frontend-softryzen/static/css/main.1c19b883.css.map",
-    "main.d68c274a.js.map": "/frontend-softryzen/static/js/main.d68c274a.js.map"
+    "main.d927e34f.css.map": "/frontend-softryzen/static/css/main.d927e34f.css.map",
+    "main.28045b0f.js.map": "/frontend-softryzen/static/js/main.28045b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c19b883.css",
-    "static/js/main.d68c274a.js"
+    "static/css/main.d927e34f.css",
+    "static/js/main.28045b0f.js"
   ]
 }
