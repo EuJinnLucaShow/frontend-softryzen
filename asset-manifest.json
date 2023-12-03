@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.d927e34f.css",
+    "main.css": "/frontend-softryzen/static/css/main.00a493be.css",
     "main.js": "/frontend-softryzen/static/js/main.28045b0f.js",
     "static/media/FiraSans-Medium.ttf": "/frontend-softryzen/static/media/FiraSans-Medium.d11d9e14e00fc1a96751.ttf",
     "static/media/FiraSans-Regular.ttf": "/frontend-softryzen/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
@@ -18,11 +18,11 @@
     "index.html": "/frontend-softryzen/index.html",
     "static/media/arrow-right.svg": "/frontend-softryzen/static/media/arrow-right.0499e83c1960c6937387b46dc894f69c.svg",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "main.d927e34f.css.map": "/frontend-softryzen/static/css/main.d927e34f.css.map",
+    "main.00a493be.css.map": "/frontend-softryzen/static/css/main.00a493be.css.map",
     "main.28045b0f.js.map": "/frontend-softryzen/static/js/main.28045b0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.d927e34f.css",
+    "static/css/main.00a493be.css",
     "static/js/main.28045b0f.js"
   ]
 }
