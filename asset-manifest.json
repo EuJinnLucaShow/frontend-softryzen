@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/frontend-softryzen/static/css/main.00a493be.css",
-    "main.js": "/frontend-softryzen/static/js/main.28045b0f.js",
+    "main.css": "/frontend-softryzen/static/css/main.bb736492.css",
+    "main.js": "/frontend-softryzen/static/js/main.7a34212a.js",
     "static/media/FiraSans-Medium.ttf": "/frontend-softryzen/static/media/FiraSans-Medium.d11d9e14e00fc1a96751.ttf",
     "static/media/FiraSans-Regular.ttf": "/frontend-softryzen/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
     "static/media/Oswald-VariableFont_wght.ttf": "/frontend-softryzen/static/media/Oswald-VariableFont_wght.7cecd0da606d25b0905d.ttf",
@@ -10,6 +10,7 @@
     "static/media/victor-dunaev.png": "/frontend-softryzen/static/media/victor-dunaev.c65072d8793fc37e1c2f.png",
     "static/media/wind-turbine-clean-energy.png": "/frontend-softryzen/static/media/wind-turbine-clean-energy.c208aebc5301954b08e4.png",
     "static/media/vitalii-shevchenko.png": "/frontend-softryzen/static/media/vitalii-shevchenko.1a8298d294aab5f3fc69.png",
+    "static/media/Oswald-Bold.ttf": "/frontend-softryzen/static/media/Oswald-Bold.41669c1e4f6bdc605d26.ttf",
     "static/media/logo.svg": "/frontend-softryzen/static/media/logo.ff3f0399b16434329da8fbccf3e68921.svg",
     "static/media/cpu-charge.svg": "/frontend-softryzen/static/media/cpu-charge.4785cc394767a3787ab80e4f25480e27.svg",
     "static/media/global-edit.svg": "/frontend-softryzen/static/media/global-edit.5231ac975d65fc6ac8ff5d7029bae85e.svg",
@@ -18,11 +19,11 @@
     "index.html": "/frontend-softryzen/index.html",
     "static/media/arrow-right.svg": "/frontend-softryzen/static/media/arrow-right.0499e83c1960c6937387b46dc894f69c.svg",
     "static/media/menu.svg": "/frontend-softryzen/static/media/menu.3d992f040c0db557f0133fcda0b43fe9.svg",
-    "main.00a493be.css.map": "/frontend-softryzen/static/css/main.00a493be.css.map",
-    "main.28045b0f.js.map": "/frontend-softryzen/static/js/main.28045b0f.js.map"
+    "main.bb736492.css.map": "/frontend-softryzen/static/css/main.bb736492.css.map",
+    "main.7a34212a.js.map": "/frontend-softryzen/static/js/main.7a34212a.js.map"
   },
   "entrypoints": [
-    "static/css/main.00a493be.css",
-    "static/js/main.28045b0f.js"
+    "static/css/main.bb736492.css",
+    "static/js/main.7a34212a.js"
   ]
 }
