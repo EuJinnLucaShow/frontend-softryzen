@@ -1,0 +1,44 @@
+.title {
+  color: #173d33;
+  text-align: center;
+  font-family: 'Oswald';
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px; /* 100% */
+  text-transform: uppercase;
+}
+
+.frame {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.frame .text {
+  color: #97d28b;
+  font-family: 'Oswald-Bold';
+  font-size: 48px;
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 48px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.frame .div {
+  color: #173d33;
+  font-family: 'Oswald';
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}

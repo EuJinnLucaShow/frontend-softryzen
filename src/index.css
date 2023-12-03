@@ -4,6 +4,11 @@
 }
 
 @font-face {
+  font-family: 'Oswald-Bold';
+  src: url('./fonts/Oswald/static/Oswald-Bold.ttf') format('truetype');
+}
+
+@font-face {
   font-family: 'Fira Sans-Regular';
   src: url('./fonts/Fira-Sans/FiraSans-Regular.ttf') format('truetype');
 }
@@ -16,7 +21,8 @@
 body {
   margin: 0;
   background-color: #f8faff;
-  font-family: 'Oswald', 'Fira Sans-Regular', 'Fira Sans-Medium', sans-serif;
+  font-family: 'Oswald', 'Oswald-Bold', 'Fira Sans-Regular', 'Fira Sans-Medium',
+    sans-serif;
   padding-left: 20px;
   padding-right: 20px;
 }
