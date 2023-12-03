@@ -30,10 +30,9 @@
 }
 
 .frame {
-  align-items: flex-start;
-  display: flex;
-  flex-wrap: wrap;
-  gap: 24px 20px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(148px, 1fr));
+  grid-gap: 20px;
   position: relative;
   width: 320px;
   margin-top: 36px;

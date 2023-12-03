@@ -1,16 +1,16 @@
 @font-face {
   font-family: 'Oswald';
-  src: url('./fonts/Oswald/Oswald-VariableFont_wght.ttf') format('opentype');
+  src: url('./fonts/Oswald/Oswald-VariableFont_wght.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Fira Sans-Regular';
-  src: url('./fonts/Fira-Sans/FiraSans-Regular.ttf') format('opentype');
+  src: url('./fonts/Fira-Sans/FiraSans-Regular.ttf') format('truetype');
 }
 
 @font-face {
   font-family: 'Fira Sans-Medium';
-  src: url('./fonts/Fira-Sans/FiraSans-Medium.ttf') format('opentype');
+  src: url('./fonts/Fira-Sans/FiraSans-Medium.ttf') format('truetype');
 }
 
 body {
